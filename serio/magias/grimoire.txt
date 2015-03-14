@@ -1,0 +1,128 @@
+0 (Div) Detect Magic: Detects spells and magic items within 61 ft.
+0 (Div) Detect Magic: Detects spells and magic items within 60 ft.
+0 (Div) Read Magic: Read scrolls and spellbooks.
+0 (Evoc) Light: Object shines like a torch.
+0 (Evoc) Light: Object shines like a torch.
+
+-1 (Abjur) Protection from Evil: +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
+1 (Abjur) Endure Elements: Exist comfortably in hot or cold environments.
+1 (Evoc) Magic Missile: 1d4+1 damage; +1 missile per two levels above 1st (max 5). -> EMPOWER (rod)
+1 (Evoc) Magic Missile: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
+1 (Necro) Ray of Enfeeblement: Ray deals 1d6 +1 per two levels Str damage.
+1 (Necro) Ray of Enfeeblement: Ray deals 1d6 +1 per two levels Str damage.
+1 (Trans) Feather Fall: Objects or creatures fall slowly.
+
+2 (Evoc) Darkness: 20-ft. radius of supernatural shadow.
+2 (Evoc) Scorching Ray: Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).
+2 (Evoc) Scorching Ray: Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).
+2 (Evoc) Scorching Ray: Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3). -> EMPOWER (rod)
+2 (Evoc) Scorching Ray: Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3). -> EMPOWER (rod)
+2 (Necro) False Life: Gain 1d10 temporary hp +1/level (max +10).
+2 (Trans) Alter Self: Assume form of a similar creature.
+
+3 (Abjur) Dispel Magic: Cancels magical spells and effects.
+3 (Abjur Dispel Magic: Cancels magical spells and effects.
+#3 (Evoc) Lightning Bolt: Electricity deals 1d6/level damage.
++3 (Abjur) Dispel Magic: Cancels magical spells and effects.
+3 (Evoc) Rainbow Blast F(SC): Line deals 1d12 damage of each energy type.
+3 (Trans) Fly: Subject flies at speed of 60 ft.
+3 (Trans) Haste: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+3 (Trans) Haste: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+
+4 (Conj) Dimension Door: Teleports you short distance.
+4 (Conj) Orb of Acid: Ranged touch, 1d6/level acid damage and subject might be sickened.
+4 (Evoc) Explosive Cascade: Bouncing flame ball deals 1d6/level fire damage.
+4 (Evoc) Fireball: 1d6 damage per level, 20-ft. radius. -> SCULPT (4 10ft-cubes)
+4 (Evoc) Fireball: 1d6 damage per level, 20-ft. radius. -> SCULPT (4 10ft-cubes)
+4 (Evoc) Scorching Ray: Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3). -> EMPOWER (rod) + SPLIT RAY
+
+5 (Conj) Teleport: Instantly transports you as far as 100 miles/level.
+5 (Evoc) Cone of Cold: 1d6/level cold damage.
+5 (Evoc) Cone of Cold: 1d6/level cold damage.
+5 (Evoc) Cone of Cold: 1d6/level cold damage.
+#5 (Evoc) Lightning Bolt: Electricity deals 1d6/level damage. -> EMPOWER
++5 (Evoc) Cone of Cold: 1d6/level cold damage.
+5 (Necro) Waves of Fatigue: Several targets become fatigued.
+
+6 (Evoc) Disintegrate: Makes one creature or object vanish.
+6 (Evoc) Disintegrate: Makes one creature or object vanish.
+6 (Evoc) Disintegrate: Makes one creature or object vanish.
+6 (Necro) Fleshshiver: Subject is stunned for 1 round, takes 1d6/level damage, and is nauseated for 1d4+2 rounds.
+#6 (Trans) Chain Lightning: 1d6/level damage; 1 secondary bolt/level each deals half damage.
++6 (Evoc) Freezing Sphere: Freezes water or deals cold damage.
+
+7 (Conj) Teleport, Greater: As teleport, but no range limit and no off-target arrival.
+7 (Evoc) Prismatic Spray: Rays hit subjects with variety of effects.
+7 (Evoc) Prismatic Spray: Rays hit subjects with variety of effects.
+7 (Necro) Sword of Darkness: Blade of negative energy bestows one or more negative levels.
+
+8 (Evoc) Polar Ray: Ranged touch attack deals 1d6/level cold damage.
+8 (Necro) Horrid Wilting: Deals 1d6/level damage within 30 ft.
+
+
+*****************************
+
+
+0 (Abjur) Resistance: Subject gains +1 on saving throws.
+0 (Conj) Acid Splash: Orb deals 1d3 acid damage.
+0 (Div) Detect Poison: Detects poison in one creature or small object.
+0 (Div) Detect Magic: Detects spells and magic items within 60 ft.
+0 (Div) Read Magic: Read scrolls and spellbooks.
+0 (Evoc) Dancing Lights: Creates torches or other lights.
+0 (Evoc) Flare: Dazzles one creature (-1 on attack rolls).
+0 (Evoc) Light: Object shines like a torch.
+0 (Evoc) Ray of Frost: Ray deals 1d3 cold damage.
+0 (Necro) Disrupt Undead: Deals 1d6 damage to one undead.
+0 (Necro) Touch of Fatigue: Touch attack fatigues target.
+0 (Trans) Mage Hand: 5-pound telekinesis.
+0 (Trans) Mending: Makes minor repairs on an object.
+0 (Trans) Message: Whispered conversation at distance.
+0 (Trans) Open/Close: Opens or closes small or light things.
+0 (Univ) Arcane Mark: Inscribes a personal rune (visible or invisible).
+0 (Univ) Prestidigitation: Performs minor tricks.
+1 (Abjur) Alarm: Wards an area for 2 hours/level.
+1 (Abjur) Endure Elements: Exist comfortably in hot or cold environments.
+1 (Abjur) Protection from Evil: +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
+1 (Abjur) Shield: Invisible disc gives +4 to AC, blocks magic missiles.
+1 (Conj) Mage Armor: Gives subject +4 armor bonus.
+1 (Div) Identify M: Determines properties of magic item.
+1 (Evoc) Burning Hands: 1d4/level fire damage (max 5d4).
+1 (Evoc) Magic Missile: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
+1 (Necro) Cause Fear: One creature of 5 HD or less flees for 1d4 rounds.
+1 (Necro) Ray of Enfeeblement: Ray deals 1d6 +1 per two levels Str damage.
+1 (Trans) Expeditious Retreat: Your speed increases by 30 ft.
+1 (Trans) Feather Fall: Objects or creatures fall slowly.
+1 (Trans) Magic Weapon: Weapon gains +1 bonus.
+2 (Abjur) Protection from Arrows: Subject immune to most ranged attacks.
+2 (Conj) Acid Arrow: Ranged touch attack; 2d4 damage for 1 round +1 round/three levels.
+2 (Evoc) Darkness: 20-ft. radius of supernatural shadow.
+2 (Evoc) Scorching Ray: Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).
+2 (Necro) False Life: Gain 1d10 temporary hp +1/level (max +10).
+2 (Trans) Alter Self: Assume form of a similar creature.
+2 (Trans) Knock: Opens locked or magically sealed door.
+3 (Abjur) Dispel Magic: Cancels magical spells and effects.
+3 (Evoc) Fireball: 1d6 damage per level, 20-ft. radius.
+3 (Evoc) Lightning Bolt: Electricity deals 1d6/level damage.
+3 (Evoc) Rainbow Blast F(SC): Line deals 1d6 damage of each energy type.
+3 (Necro) Ray of Exhaustion: Ray makes subject exhausted.
+3 (Trans) Fly: Subject flies at speed of 60 ft.
+3 (Trans) Haste: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+4 (Conj) Dimension Door: Teleports you short distance.
+4 (Conj) Orb of Acid: Ranged touch, 1d6/level acid damage and subject might be sickened.
+4 (Evoc) Defenestrating SphereF: Cloudy gray sphere knocks enemies prone, hurls them upward for falling damage.
+4 (Evoc) Dragon Breath: You choose a dragon type and mimic its breath weapon.
+4 (Evoc) Explosive Cascade: Bouncing flame ball deals 1d6/level fire damage.
+5 (Conj) Teleport: Instantly transports you as far as 100 miles/level.
+5 (Evoc) Cone of Cold: 1d6/level cold damage.
+5 (Necro) Waves of Fatigue: Several targets become fatigued.
+5 (Trans) Overland Flight: You fly at a speed of 40 ft. and can hustle over long distances.
+6 (Evoc) Disintegrate: Makes one creature or object vanish.
+6 (Evoc) Freezing Sphere: Freezes water or deals cold damage.
+6 (Trans) Chain Lightning: 1d6/level damage; 1 secondary bolt/level each deals half damage.
+6 (Necro) Fleshshiver: Subject is stunned for 1 round, takes 1d6/level damage, and is nauseated for 1d4+2 rounds.
+7 (Conj) Mage’s Magnificent Mansion
+7 (Conj) Teleport, Greater: As teleport, but no range limit and no off-target arrival.
+7 (Evoc) Prismatic Spray: Rays hit subjects with variety of effects.
+7 (Necro) Sword of Darkness: Blade of negative energy bestows one or more negative levels.
+8 (Evoc) Polar Ray: Ranged touch attack deals 1d6/level cold damage.
+8 (Necro) Horrid Wilting: Deals 1d6/level damage within 30 ft.
